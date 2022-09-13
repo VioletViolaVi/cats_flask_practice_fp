@@ -1,5 +1,4 @@
 from werkzeug import exceptions
-from asyncio import exceptions
 
 cats = [
     {"id": 1, "name": "Jen Shah", "age": 10},
